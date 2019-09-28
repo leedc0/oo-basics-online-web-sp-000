@@ -21,7 +21,7 @@ end
 #     @title
 #   end
 #
-#   def author=(author) # Setter//Writer; it sets a property
+#   def author=(author) # Setter/Writer; it sets a property
 #     # @ author = author
 #   end
 #
